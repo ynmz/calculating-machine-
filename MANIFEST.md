@@ -1,1 +1,8 @@
 
+NEWS.md
+TAGS.md
+CREDITS.md
+HISTORY.md
+COPYING.md
+LICENS.md
+MANIFEST.md
